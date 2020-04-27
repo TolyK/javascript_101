@@ -59,6 +59,7 @@
 #### Strings
 
 1. Write a string that represents your full name.
+var name = "Anatoly Kvitnitsky";
 
 2. Write a string that represents your favorite food.
 
